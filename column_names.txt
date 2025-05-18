@@ -61,3 +61,5 @@ Number of Motorcycle/Tricycle
 Income Class
 Island Group'
 percentage of food expenditure over household income
+total expenditure sa bisyo
+percentage of bisyo over household income
